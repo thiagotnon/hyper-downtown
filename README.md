@@ -40,4 +40,4 @@ $ npm install hyper-downtown
 
 ## License
 
-[MIT](/license.md)
+[MIT](license.md)
