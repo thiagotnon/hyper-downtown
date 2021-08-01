@@ -1,0 +1,34 @@
+{
+  "name": "hyper-downtown",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "🌆 Midnight Hyper theme",
+  "repository": "thiagotnon/hyper-downtown",
+  "author": {
+    "name": "Thiago N.",
+    "email": "thiagotnon@gmail.com",
+    "url": "https://www.linkedin.com/in/thiago-natan/"
+  },
+  "maintainers": [
+    {
+      "name": "Thiago N.",
+      "email": "thiagotnon@gmail.com",
+      "url": "https://www.linkedin.com/in/thiago-natan/"
+    }
+  ],
+  "files": [
+    "index.js"
+  ],
+  "keywords":[
+    "hyper",
+    "hypertherm",
+    "dark",
+    "synth",
+    "synthwave",
+    "vaporwave",
+    "retrowave",
+    "theme",
+    "syntax"
+  ],
+  "license": "MIT"
+}
