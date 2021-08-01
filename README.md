@@ -3,7 +3,7 @@ HyperDowntown
 </h1>
 
 <h4 align="center">
-🌆 Synthwave Hyper theme
+🌆 Downtown Hyper theme
 </h4>
 
 
